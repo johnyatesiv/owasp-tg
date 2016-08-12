@@ -1,0 +1,23 @@
+{
+  "name": "owasp-tg",
+  "version": "0.0.0",
+  "description": "A set of tests to ensure OWASP compliance",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnyatesiv/owasp-tg.git"
+  },
+  "keywords": [
+    "OWASP",
+    "test"
+  ],
+  "author": " <john.yatesiv@gmail.com> (John Yates <john.yatesiv@gmail.com>)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnyatesiv/owasp-tg/issues"
+  },
+  "homepage": "https://github.com/johnyatesiv/owasp-tg#readme"
+}
